@@ -1,5 +1,7 @@
 # 🦜🔗 Mi Primera App con LangChain y GPT-4o-mini
 
+🌐 **Demo en vivo:** [https://taller-langchain.streamlit.app](https://taller-langchain.streamlit.app)
+
 Aplicación web construida con **Streamlit**, **LangChain** y **OpenAI (`gpt-4o-mini`)**, basada en el tutorial oficial de Streamlit (*Build an LLM-powered app in 18 lines of code*).
 
 ## 🚀 Ejecución en local
